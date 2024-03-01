@@ -9,7 +9,8 @@ streamline and optimize the inventory management processes for businesses, enabl
 them to manage their product inventory efficiently.
 
 The project is developed using cutting-edge technologies such as Spring Boot, Java,
-MySQL, and Postman;this project demonstrates a robust and efficient system for
+MySQL, and Postman.
+This project demonstrates a robust and efficient system for
 tracking, updating, and maintaining book inventory.
 
 The project leverages the Spring Boot framework to create a robust and scalable
